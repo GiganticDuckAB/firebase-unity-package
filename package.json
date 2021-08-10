@@ -1,0 +1,14 @@
+{
+  "name": "com.giganticduck.firebase",
+  "version": "1.0.0",
+  "displayName": "Firebase",
+  "keywords": [
+    "firebase"
+  ],
+  "author": {
+    "name": "Gigantic Duck",
+    "email": "hello@giganticduck.com",
+    "url": "https://giganticduck.com"
+  },
+  "description": "Includes:\nExternal Dependency Manager for Unity\nFirebase App (Core)\nFirebase Crashlytics\nFirebase Cloud Messaging"
+}
